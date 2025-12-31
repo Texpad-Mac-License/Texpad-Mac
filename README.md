@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://www.texifier.com/static/media/app-icons/texifier-macos-icon.png" width="200" alt="Texpad macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/Texpad">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Texpad">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Texpad macOS page">
  </a><br><br>
  <div align="center">
